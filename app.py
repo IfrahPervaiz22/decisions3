@@ -1,3 +1,4 @@
+#python
 #Gym Membershiping by using decisions
 print("Welcome to our membership page")
 age=eval(input("Enter your age:"))
